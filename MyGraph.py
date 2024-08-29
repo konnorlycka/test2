@@ -6,6 +6,8 @@ plt.plot(x, np.sin(x))
 
 plt.show()
 
+print("Hi there!")
+
 
 
 #step 1 create your virutal environment so pc" py -3 -m venv myvenv" for mac "python3 -m venv myvenv" myvenv could change so be any name
