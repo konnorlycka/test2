@@ -8,6 +8,8 @@ plt.show()
 
 print("Hi there!")
 
+print("Hello again!")
+
 
 
 #step 1 create your virutal environment so pc" py -3 -m venv myvenv" for mac "python3 -m venv myvenv" myvenv could change so be any name
