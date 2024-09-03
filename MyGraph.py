@@ -25,3 +25,4 @@ print("Hello again!")
 
 #we use those to track our projects
 #github we are clonning a repository 
+#Remember to push it to github in order for changes to happen
